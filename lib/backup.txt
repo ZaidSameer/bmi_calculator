@@ -1,0 +1,8 @@
+// ignore: non_constant_identifier_names
+floatingActionButton: Theme(
+        data: ThemeData(accentColor: Colors.pinkAccent),
+        child: FloatingActionButton(
+          onPressed: () {},
+          child: Icon(Icons.add),
+        ),
+      ),
